@@ -1,6 +1,8 @@
 let me start with i have no idea of what i'm doing
 
-in my extensive 5 minute web search i didn't find any tool that did this without overly complicated settings and free.
+I wanted to rename all my photos to include the subject so that I could use the search function in Finder directly.
+
+In my extensive 5 minute web search i didn't find any tool that did this without overly complicated settings and free.
 So i told gemini to do it.
 
 Surprisingly it works, so i'm uploading the whole thing to not lose it and if somebody ever stumbles upon this please enjoy and let me know how much stupid code gemini has put in it.
